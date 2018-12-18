@@ -20,7 +20,7 @@ body {
 }
  
 .card {
- 		padding:40px; 
+ 		padding:0; 
 		text-align:center;
 		background-color: white;
 		width:100%;
@@ -218,6 +218,6 @@ li{
 
 .footerthree td{
 	width:600px;
-	padding :30;
+ 
 	
 }
