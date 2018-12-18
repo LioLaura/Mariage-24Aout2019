@@ -1,0 +1,107 @@
+<title> Laura & Lionel * 24 Aout 2019 </title>
+<link rel="shortcut icon" type="image/x-icon" href="logo.png" />
+
+<link rel="stylesheet" type="text/css" href="main.css" media="all"/>
+
+
+
+<body>
+
+
+<div id="topbar">
+	<ul id="nav"><!--
+		--><li><img id="logosolsys" src="logo.png" /></li><!--
+		--><li><a href="index.html">Accueil</a></li><!--
+		--><li><a href="Programe.html">Le Programme</a></li><!--
+		--><li><a href="Lieux.html">Le lieu</a></li><!--
+		--><li><a href="Logements.html">Les logements</a></li><!--
+		--><li><a href="Questionaire.html">Questionaire</a></li><!--
+		--><li><a href="Contact.html"> Nous contacter</a></li>
+	 </ul>
+</div>
+
+<div id="content">
+ 
+	<img src="sala.png" id="couverture" alt="some_text" />
+	
+	   
+   <div class="card"> 	
+	   <h2>On va se marier</h2>
+
+		<p>C'est en haut du plateau de Waterberg en Namibie, que nous nous sommes fianc&eacute;s le 2 Mai 2018.</p>
+		
+	   <p> Le 24 Aout 2019, nous allons nous dire oui et nous serons tellement heureux de partager ce moment avec vous.</p>
+	   <br/><br/>
+		 
+		<iframe src="http://free.timeanddate.com/countdown/i6je73ay/n195/cf100/cm0/cu4/ct4/cs1/ca2/co0/cr0/ss0/cac556b2f/cpc556b2f/pct/tcfff/fs175/szw256/szh108/iso2019-08-24T14:30:00" allowTransparency="true" frameborder="0" width="256" height="108"></iframe>	
+		
+		<p> Le compte a rebours est lanc&eacute; !</p>
+		
+	</div> 
+	
+   <div class="card"> 	
+   
+		<h2>Le programme</h2>
+				<img id="logosolsys" src="logo.png" />
+				
+			   <h3>Samedi 24 Aout 2019</h3>
+   			   <h4>14h</h4>
+				<p> Mariage civil - <a href="https://www.google.com/maps/place/Mairie+de+Villeneuve+Loubet/@43.6575469,7.1211522,17z/data=!4m12!1m6!3m5!1s0x0:0x1c34bc9273a2643d!2sMairie+de+Villeneuve+Loubet!8m2!3d43.6580243!4d7.121871!3m4!1s0x0:0x1c34bc9273a2643d!8m2!3d43.6580243!4d7.121871"> Mairie de Villeneuve-Loubet</a></p> 
+				
+				<h4>17h</h4>
+				<p> Accueil et Rafraichissement - <a href="www.domainedessources.com">Domaine des sources</a><p> 
+				
+				<h4>18h</h4>
+				<p> Ceremonie Laique - <a href="www.domainedessources.com">Domaine des sources</a><p> 
+				
+				<h4>19h</h4>
+				<p> Cocktail dinnatoire - <a href="www.domainedessources.com">Domaine des sources</a><p> 
+
+				<h4>21h</h4>
+				<p> Repas - <a href="www.domainedessources.com">Domaine des sources</a><p> 
+				
+				<img id="logosolsys" src="logo.png" />
+				
+				<h3>Dimanche 25 Aout 2019</h3>
+				<p> Brunch - <a href="www.domainedessources.com">Domaine des sources</a><p> 
+	</div> 
+
+
+ </div>
+		
+<div id="footer">
+	<div class="footerone">
+		<img id="logosolsys" src="logo.png" />
+		<h1>Laura & Lionel * 24 Aout 2019 </h1>
+		<p> Vous trouverez sur ce site toutes les informations utiles.</p>
+		<img id="logosolsys" src="logo.png" />
+	</div>
+	<table class="footerthree">
+	   <tr>
+			<td>
+				<h3>Aidez-nous</h3>
+				<p> Avez-vous r&eacute;pondu au 
+				 <a href="https://docs.google.com/forms/d/e/1FAIpQLSe6OskBnbaXaB7s1eIf0TaWIZ8NxK7t3jJca5H5YEOTrpAiUQ/viewform?usp=sf_link">questionnaire</a>? 
+				 <br/>
+				 <br/>
+				 Le questionnaire va nous permettre de pr&eacute;parer l'oragnisation du mariage.
+				 N'h&eacute;sitez pas a r&eacute;pondre et a modifier vos r&eacute;ponses .</p>
+			</td>
+			<td>
+				<h3>Ecrivez-nous</h3>
+				<p>280 avenue de la Bermone<br/>
+				R&eacute;sidence MonFleury<br/>
+				Batiment A<br/>
+				06270 Villeneuve-Loubet</p>
+			</td>
+			<td>
+				<h3>Appellez-nous</h3>
+				<p> Laura  06 29 74 06 56</p>
+				<p> Lionel 06 23 39 31 39</p>			
+			</td>
+			 
+		</tr>
+	</table>
+	</div>
+	
+</body>
