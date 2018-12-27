@@ -34,15 +34,18 @@ body {
 }
 
 .card h2 {
-	font-size:24px;
+	font-size:72px;
+	font-family:Brush Script MT, Brush Script Std, cursive ;
 	color:gray;
 	text-align:center;
 	font-weight:lighter;
+	padding:0;
+	margin:0;
 }
 
 
 .card h3 {
-	font-size:18px;
+	font-size:24px;
 	color:#6e8b3d;
 	text-align:center;
 	font-weight:lighter;
@@ -209,7 +212,7 @@ li{
 
 
 .cardtable {
-	width:900px;
+	width:1000px;
 	margin-left: auto;
 	margin-right: auto;
 }
